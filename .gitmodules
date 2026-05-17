@@ -37,3 +37,6 @@
 [submodule "Bins"]
 	path = RollingWOOD-Binaries
 	url = https://github.com/ProjectRollingWOOD/RollingWOOD-Binaries.git
+[submodule "retro7zip"]
+	path = retro7zip
+	url = https://github.com/dajhorn/retro7zip.git
