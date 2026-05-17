@@ -34,3 +34,6 @@
 [submodule "Jemm-8993cad112a581f74691b796845c6eddd12b14fc"]
 	path = Jemm-8993cad112a581f74691b796845c6eddd12b14fc
 	url = https://github.com/ProjectRollingWOOD/Jemm-8993cad112a581f74691b796845c6eddd12b14fc.git
+[submodule "Bins"]
+	path = RollingWOOD-Binaries
+	url = https://github.com/ProjectRollingWOOD/RollingWOOD-Binaries.git
