@@ -22,3 +22,6 @@
 [submodule "USBDDOS"]
 	path = USBDDOS
 	url = https://github.com/crazii/USBDDOS.git
+[submodule "MS-DOS"]
+	path = MS-DOS
+	url = https://github.com/microsoft/MS-DOS.git
