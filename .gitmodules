@@ -1,0 +1,6 @@
+[submodule "RollingWOOD-Documentation"]
+	path = RollingWOOD-Documentation
+	url = https://github.com/ProjectRollingWOOD/RollingWOOD-Documentation.git
+[submodule "RollingWOOD-Audio"]
+	path = RollingWOOD-Audio
+	url = https://github.com/ProjectRollingWOOD/RollingWOOD-Audio.git
