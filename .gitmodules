@@ -7,3 +7,6 @@
 [submodule "ini"]
 	path = ini
 	url = https://github.com/rxi/ini.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib.git
