@@ -16,3 +16,6 @@
 [submodule "HimemX"]
 	path = HimemX
 	url = https://github.com/Baron-von-Riedesel/HimemX.git
+[submodule "HX"]
+	path = HX
+	url = https://github.com/crazii/HX.git
