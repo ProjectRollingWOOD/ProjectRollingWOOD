@@ -19,3 +19,6 @@
 [submodule "HX"]
 	path = HX
 	url = https://github.com/crazii/HX.git
+[submodule "USBDDOS"]
+	path = USBDDOS
+	url = https://github.com/crazii/USBDDOS.git
