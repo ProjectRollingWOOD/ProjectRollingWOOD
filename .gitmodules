@@ -13,3 +13,6 @@
 [submodule "RollingWOOD-DJGPP-Toolchain"]
 	path = RollingWOOD-DJGPP-Toolchain
 	url = https://github.com/ProjectRollingWOOD/RollingWOOD-DJGPP-Toolchain.git
+[submodule "HimemX"]
+	path = HimemX
+	url = https://github.com/Baron-von-Riedesel/HimemX.git
