@@ -25,3 +25,6 @@
 [submodule "MS-DOS"]
 	path = MS-DOS
 	url = https://github.com/microsoft/MS-DOS.git
+[submodule "nasm"]
+	path = nasm
+	url = https://github.com/netwide-assembler/nasm.git
