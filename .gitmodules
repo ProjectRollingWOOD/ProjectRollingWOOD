@@ -4,3 +4,6 @@
 [submodule "RollingWOOD-Audio"]
 	path = RollingWOOD-Audio
 	url = https://github.com/ProjectRollingWOOD/RollingWOOD-Audio.git
+[submodule "ini"]
+	path = ini
+	url = https://github.com/rxi/ini.git
