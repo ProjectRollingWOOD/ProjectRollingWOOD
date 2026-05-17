@@ -28,3 +28,6 @@
 [submodule "nasm"]
 	path = nasm
 	url = https://github.com/netwide-assembler/nasm.git
+[submodule "ctmouse"]
+	path = ctmouse
+	url = https://github.com/ProjectRollingWOOD/ctmouse.git
