@@ -5,10 +5,18 @@ Use this file to launch the RollingWOOD kernel.
 ## Arguments
 | Argument |   |
 | -------- | - |
+| |
+| |
 | `/P`     | Force running in `386 Enhanced Mode` |
 | `/S`     | Force running in `286 Standard Mode` |
 | `/R`     | Force running in `8086 Real Mode` |
+| |
+| |
 | `/PAE`   | Force using PAE. Requires `HIMEMSX` |
-
+| `/noPAE` | Force-disable PAE |
+| `/SMP`   | Force using SMP. Requires a multi-core CPU or multiple CPUs |
+| `/noSMP` | Force-disable SMP
+| |
+| |
 | `/safe`  | Run in safe mode, no third-party drivers, only standard RollingWOOD ones |
 | `/flog`  | Log to the file `C:\RLNGWOOD\SYSTEM\BOOT.LOG` |
