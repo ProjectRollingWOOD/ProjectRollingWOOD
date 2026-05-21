@@ -7,9 +7,8 @@ Use this file to launch the RollingWOOD kernel.
 | -------- | - |
 | |
 | |
-| `/P`     | Force running in `386 Enhanced Mode` |
-| `/S`     | Force running in `286 Standard Mode` |
-| `/R`     | Force running in `8086 Real Mode` |
+| `/3`     | Force running in `386 Enhanced Mode` |
+| `/MMX`     | Force running in `Pentium(R) MMX Enchanced Mode` |
 | |
 | |
 | `/PAE`   | Force using PAE. Requires `HIMEMSX` |
